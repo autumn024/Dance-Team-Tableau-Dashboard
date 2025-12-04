@@ -16,7 +16,7 @@ Explore the dashboard on [Tableau Public](https://public.tableau.com/views/Dance
 Scores were collected from official competition PDFs and compiled into structured datasets and cleaned in SQL Server Management for analysis.
 
 ## Documentation
-For a detailed breakdown of the Software Development Life Cycle (SDLC) steps I followed, see [SDLC_Documentation][.
+For a detailed breakdown of the Software Development Life Cycle (SDLC) steps I followed, see [SDLC_Documentation][SDLC_Documentation].
 
 ## Future Improvements
 - Add mobile-friendly layouts
